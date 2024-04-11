@@ -1,4 +1,4 @@
-package com.test.layout.filter;
+package com.test.layout.sitemesh;
 
 import org.sitemesh.builder.SiteMeshFilterBuilder;
 import org.sitemesh.config.ConfigurableSiteMeshFilter;

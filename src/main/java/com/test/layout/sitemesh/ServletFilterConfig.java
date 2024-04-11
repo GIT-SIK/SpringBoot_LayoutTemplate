@@ -1,9 +1,9 @@
-package com.test.layout.config;
+package com.test.layout.sitemesh;
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-import com.test.layout.filter.SitemeshFilter;
+import com.test.layout.sitemesh.SitemeshFilter;
 
 @Configuration
 public class ServletFilterConfig {
