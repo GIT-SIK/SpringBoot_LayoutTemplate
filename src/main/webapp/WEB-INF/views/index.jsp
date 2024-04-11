@@ -7,7 +7,6 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-    <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="index.css" />
 </head>
 <body>

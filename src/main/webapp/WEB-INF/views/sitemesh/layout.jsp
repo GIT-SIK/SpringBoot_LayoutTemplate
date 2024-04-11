@@ -3,6 +3,7 @@
 <html lang="ko">
    <head>
    <%@ include file="/WEB-INF/views/sitemesh/css.jsp" %>
+   <sitemesh:write property='head'/>
    </head>
    <body>
    		<%@ include file="/WEB-INF/views/sitemesh/scripts.jsp" %>
