@@ -23,9 +23,6 @@ dependencies {
 	implementation 'org.apache.tiles:tiles-core:3.0.8'
 	implementation 'org.apache.tiles:tiles-api:3.0.8'
 
-	implementation group: 'opensymphony', name: 'sitemesh', version: '2.5.0'
-
-
 	implementation group: 'javax.servlet', name: 'jstl', version: '1.2'
 	implementation 'org.apache.tomcat.embed:tomcat-embed-jasper'
 	implementation 'org.springframework.boot:spring-boot-devtools'
