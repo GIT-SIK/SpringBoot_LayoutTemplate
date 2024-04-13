@@ -4,11 +4,6 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jstl/fmt_rt"%>
 <!DOCTYPE html>
 <html lang="ko">
-
-<head>
-    <meta charset="UTF-8">
-</head>
-
 <body>
     <script>
         $(document).ready(() => {
