@@ -1,21 +1,8 @@
-## Layout Template
-예제는 Branch 참고.
-- - -
+## Thymeleaf
 ### 버전
  - java 17
  - spring boot 2.7.9 (Gradle)
- - tiles 3.0.8
- - sitemesh 3.0.1
- - jstl 1.2
+ - thymeleaf 3.1.2.RELEASE
 - - -
-### 파일 구성
-#### - commom 
- - **jsp** (index, nav)
- - **java** (controller)
 
-#### - tiles
- - **java** (config)
- - **xml** (tiles)
-
-#### - sitemesh
- - **java** (config, filter)
+### 파일 구조
