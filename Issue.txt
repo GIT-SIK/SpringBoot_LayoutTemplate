@@ -1,0 +1,2 @@
+* Dependencies Version Issue
+- SpringBoot 3.x  이상부터 tiles 3이 지원되지 않음 -> Thymeleaf 대체
