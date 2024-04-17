@@ -1,2 +1,20 @@
-* Dependencies Version Issue
-- SpringBoot 3.x  이상부터 tiles 3이 지원되지 않음 -> Thymeleaf 대체
+* LayoutTemplate 버전 호환
+### [Tiles] ### 
+https://tiles.apache.org/
+* 3.0.8v
+  - JAVA 7+
+  - Spring Boot 2.x (3.x 지원안함)
+  - Spring 3.2+
+  - JSP 2.1+
+  - Servlet 2.5+
+  - JSTL
+
+### [Sitemesh] ### 
+https://struts.apache.org/plugins/sitemesh/
+* 3.1.Xv
+  - JAVA 8+
+  - Spring Boot 2.x
+
+* 3.2.Xv
+  - JAVA 17+
+  - Spring Boot 3.x
